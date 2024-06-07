@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #2daeef;
     color: #ffffff;
 }
 
@@ -21,7 +21,8 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #7C462A;
+    /* used color theory to find what color would reflect best with the background*/
 }
 
 .header div {
@@ -50,13 +51,14 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    alt:"Meeting room full of people";
 }
 
 .float-left {
@@ -73,6 +75,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    
 }
 
 .benefits {
@@ -83,7 +86,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2daeef;
 }
 
 .benefit-lead {
@@ -139,7 +142,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2D4DEF;
     color: #ffffff;
 }
 
@@ -148,7 +151,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2D4DEF;
     color: #ffffff;
 }
 
@@ -157,7 +160,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2D4DEF;
     color: #ffffff;
 }
 
