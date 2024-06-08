@@ -78,6 +78,9 @@ p {
     
 }
 
+/* Consolidates benifit code so rather then having three for section (9 differnt codes)
+there is now only three (old code under conslidated code below)*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,8 +108,6 @@ p {
     max-width: 150px;
 }
 
-/* Consolidates benifit code so rather then having three for section (9 differnt codes)
-there is now only three */
 /* .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -138,6 +139,9 @@ there is now only three */
     margin: 10px auto;
     max-width: 150px;
 } */
+
+/* Consolidates services code so rather then having three for section (9 differnt codes)
+there is now only three (old code under consolidated sections below) */
 
 .services {
     margin-bottom: 20px;
@@ -178,7 +182,7 @@ there is now only three */
     max-height: 200px;
 } */
 
-.services h2 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

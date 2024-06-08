@@ -20,5 +20,6 @@ N/A
 Allows others to more affectivly use the Horiseon home page
 
 ## Credits
-
-N/A
+UnCC: original provided code
+Nicolas pace: improved code
+Canva.com: helped pick better colors
