@@ -15,11 +15,16 @@ Changes made include:
 
 N/A
 
+## Links
+
+- Horiseon web consultant (deployed application): https://eon1220.github.io/Horiseon-accessibility/
+- Canva.com: https://www.canva.com/colors/color-wheel/
+
 ## Usage
 
 Allows others to more affectivly use the Horiseon home page
 
 ## Credits
-UnCC: original provided code
-Nicolas pace: improved code
-Canva.com: helped pick better colors
+- UnCC: original provided code
+- Nicolas pace: improved code
+- Canva.com: helped pick better colors
